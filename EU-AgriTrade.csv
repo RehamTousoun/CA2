@@ -1,0 +1,595 @@
+﻿Domain Code,Domain,Area Code,Area,Item Code (CPC),Item(M49),Flag,Flag Description,Unit,2015,2016,2017,2018,2019,2020,2021,Element,Element Code
+TCL,Crops and livestock products,40,Austria,F2071,Bovine Meat ,A,Official figure ,1000 US$,543817.9,500433.84,550245.07,561087.62,546331.84,526121.43,589371.34,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1944,Cereals ,A,Official figure ,1000 US$,413436.91,416309.32,451317.42,433067.23,461881.52,527424.05,592326.72,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1887,Dairy Products ,A,Official figure ,1000 US$,1219787.92,1196282.33,1314954.84,1423163.86,1369810.97,1483644.97,1532730.09,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1782,Eggs ,A,Official figure ,1000 US$,22726.14,25483.68,33349.16,44926.9,44929.2,43546,30247.17,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,756577.02,748014.6,838420.14,961041.09,949072.54,1041044.61,1194880.85,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1802,Fruit ,A,Official figure ,1000 US$,788426.49,862184.92,835437.11,932206.63,862615.97,961056.17,1066515.03,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1773,Nuts ,A,Official figure ,1000 US$,104003.71,103224.82,103033.67,114679.89,95595.15,102044.85,113395.55,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,638839.02,678612.59,741575.94,735178.01,792229.02,854409.39,915283.58,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F2074,Poultry Meat ,A,Official figure ,1000 US$,262252.18,279842.77,304385.4,338463.56,332746.7,326225.76,379179.57,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1719,Roots and Tubers ,A,Official figure ,1000 US$,48655.2,56755.56,68232.47,66522.35,62416.48,61271.08,73357.86,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F1734,Vegetables ,A,Official figure ,1000 US$,246934.72,270084.81,272905.93,302568.66,305754.61,305521.83,352741.71,Export Value,5922
+TCL,Crops and livestock products,40,Austria,F2071,Bovine Meat ,A,Official figure ,1000 US$,249931.41,275702.03,309846.96,329340.46,323655.15,259096.11,281112.63,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1944,Cereals ,A,Official figure ,1000 US$,513368.94,477019.63,541855.66,531066.92,566041.12,606043.12,735957.03,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1887,Dairy Products ,A,Official figure ,1000 US$,769454.85,792245.44,879275.37,977352.48,918264.21,965893.65,1006885.84,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1782,Eggs ,A,Official figure ,1000 US$,69715.94,61725.06,76401.93,85810.9,83454.58,74795.04,56365.75,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,765758.96,670396.11,799907.46,855134.93,849905.26,974581.37,1068654.62,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1802,Fruit ,A,Official figure ,1000 US$,1441899.65,1574525.48,1657292.85,1701249.02,1584999.34,1745017.06,1898930.73,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1773,Nuts ,A,Official figure ,1000 US$,361274.87,303761.67,318943.17,318885.03,299206.55,352141.44,321689.06,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,459422.26,472475.08,508181.72,476552.11,516735.66,480547.86,473318.65,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F2074,Poultry Meat ,A,Official figure ,1000 US$,421119.13,420059.21,434292.49,479772.49,454341.46,381558.67,434137.69,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1719,Roots and Tubers ,A,Official figure ,1000 US$,71293.53,77313.56,79952.29,93119.93,111046.91,104086.37,97793.52,Import Value,5622
+TCL,Crops and livestock products,40,Austria,F1734,Vegetables ,A,Official figure ,1000 US$,803576.93,837770.18,921986.3,975361.05,966573.31,975382.57,1066305.97,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F2071,Bovine Meat ,A,Official figure ,1000 US$,922028.52,895337.26,1003263.22,1055915.56,831379.53,783825.24,895198.71,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1944,Cereals ,A,Official figure ,1000 US$,614180.98,558993.31,570746.55,606045.23,542891.35,655669.15,738671.81,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1887,Dairy Products ,A,Official figure ,1000 US$,2856192.89,2852267.12,3612736.18,3832793.88,3719235.72,3789325.87,4196225.92,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1782,Eggs ,A,Official figure ,1000 US$,221577.62,203751.03,225856.28,250465.63,209739.73,235639.06,250846.03,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,2262708.93,2294090.83,2393306.94,2405203.97,2382939.53,2638726.11,2986612.98,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1802,Fruit ,A,Official figure ,1000 US$,3789644.42,3840480.59,4070951.49,3741918.94,3365752.07,3600210.76,3597737.8,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1773,Nuts ,A,Official figure ,1000 US$,320380.1,321956.32,306803.76,322157.24,340877.12,244436.05,277251.02,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,1505685.69,1521187.76,1659543.43,1598001.15,1711798.61,1763197.36,1775107.36,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F2074,Poultry Meat ,A,Official figure ,1000 US$,1126746.98,1121462.38,1317475.2,1377440.12,1202689.07,1195549.47,1373231.91,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1719,Roots and Tubers ,A,Official figure ,1000 US$,1644187.98,1862195.55,2013309.32,2258361.56,2527507.31,2373151.16,2569526.95,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F1734,Vegetables ,A,Official figure ,1000 US$,2865991.77,2981030.65,3138493.39,3165642.16,3072627.13,3296904.2,3445254.23,Export Value,5922
+TCL,Crops and livestock products,56,Belgium,F2071,Bovine Meat ,A,Official figure ,1000 US$,414702.46,356409.28,389756.59,440674.34,406393.22,420888.52,480642.61,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1944,Cereals ,A,Official figure ,1000 US$,1905669.96,1839053.52,2059399.64,2137074.79,2125933.12,2227551.56,2814074.71,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1887,Dairy Products ,A,Official figure ,1000 US$,2865257.06,2952901.81,3724829.44,3812898.25,3525993.46,3580241.65,4123182.65,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1782,Eggs ,A,Official figure ,1000 US$,173922.67,179137.56,216269.02,224833.99,217617.75,223235.81,234421.07,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,1931503.24,1932610.45,2091315.45,2046253.66,1982581.67,2277432.97,2514101.28,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1802,Fruit ,A,Official figure ,1000 US$,4279578.82,4260577.22,4555948.5,4547984.22,3880157.15,4273029.05,4218797.6,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1773,Nuts ,A,Official figure ,1000 US$,638563.83,621460.97,587266.41,599014.65,546767.47,507576.27,530420,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,473275.25,500533.75,555513.58,569836.18,593934.77,675982.53,736658.08,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F2074,Poultry Meat ,A,Official figure ,1000 US$,643285.41,665855.24,735415.85,791553.05,766455.97,735694.99,850886.21,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1719,Roots and Tubers ,A,Official figure ,1000 US$,491068.76,620256.16,724678.9,760941.95,978983.33,858500.96,934461.65,Import Value,5622
+TCL,Crops and livestock products,56,Belgium,F1734,Vegetables ,A,Official figure ,1000 US$,1950627.94,2124163.11,2229410.45,2242205.28,2133926.53,2374823.98,2498389.33,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F2071,Bovine Meat ,A,Official figure ,1000 US$,7256.65,12725.23,5048.92,3727.19,2455.63,4505.8,9121.41,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1944,Cereals ,A,Official figure ,1000 US$,966408.58,1104829.74,1039074.31,1210705.18,1493010.21,1320105.86,1948766.59,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1887,Dairy Products ,A,Official figure ,1000 US$,126327.81,117013.7,122678.04,128825.4,129028.95,130785.7,146454.56,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1782,Eggs ,A,Official figure ,1000 US$,36885.04,29320.84,43783.47,42272.53,47058.69,49419.95,63479.18,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,235744.31,213154.97,233458.99,294197.69,327690.2,382791.47,469663.58,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1802,Fruit ,A,Official figure ,1000 US$,151268.01,159664.66,163763.19,187956.58,177884.65,191302.18,228668.9,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1773,Nuts ,A,Official figure ,1000 US$,36932.08,32748.04,42898.48,40154.3,37548.19,46150.98,46262.01,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,17148.01,20357.92,26236.16,36601.61,38196.78,41488.81,49345.24,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F2074,Poultry Meat ,A,Official figure ,1000 US$,150185.89,179507.94,197402.58,214732.15,164004.12,126010.26,164256.86,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1719,Roots and Tubers ,A,Official figure ,1000 US$,1615.87,1795.28,1882.83,3674.19,1777.82,1627.75,1656.25,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F1734,Vegetables ,A,Official figure ,1000 US$,113120.14,112183.42,139729.27,164624.67,148341.53,154883.52,191976.17,Export Value,5922
+TCL,Crops and livestock products,100,Bulgaria,F2071,Bovine Meat ,A,Official figure ,1000 US$,37869.06,43589.32,36380.54,39958.07,44228.43,39382.21,51820.78,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1944,Cereals ,A,Official figure ,1000 US$,75072.17,67197.76,134005.85,76378.25,92706.02,105180.77,120230.25,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1887,Dairy Products ,A,Official figure ,1000 US$,192149.11,202613.26,243979.42,245526.38,252375.93,258827.36,321253.58,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1782,Eggs ,A,Official figure ,1000 US$,13052.96,11897.78,17760.51,19952.4,14148.71,10565.81,12723.58,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,129882.66,130678.44,130761.55,149390.59,141314.52,160296.66,190639.42,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1802,Fruit ,A,Official figure ,1000 US$,175796.24,193736.38,205337.33,240097.65,231356.94,259281.96,309790.14,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1773,Nuts ,A,Official figure ,1000 US$,47990.18,47687.29,59382.55,59915.83,60879.76,70765.31,75931.13,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,212047.43,212937.24,260023.25,272811.98,296789.43,311207.48,305163.64,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F2074,Poultry Meat ,A,Official figure ,1000 US$,115337.23,109471.87,128484.92,134660.29,133169.18,110127.83,126584.15,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1719,Roots and Tubers ,A,Official figure ,1000 US$,20857.9,24982.12,27371.31,28377.58,35360.82,26333.12,30682.77,Import Value,5622
+TCL,Crops and livestock products,100,Bulgaria,F1734,Vegetables ,A,Official figure ,1000 US$,163055.81,165361.33,184296.64,226006.13,231880.78,260337.02,305739.13,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F2071,Bovine Meat ,A,Official figure ,1000 US$,32556.66,42456.63,43623.71,50891.88,61876.23,62604.29,66615.05,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1944,Cereals ,A,Official figure ,1000 US$,155909.91,166293.12,174947.1,224892.83,234662.58,367378.52,432626.89,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1887,Dairy Products ,A,Official figure ,1000 US$,47433.99,59032.7,69622.13,82126.28,74667.85,78000.93,84218.25,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1782,Eggs ,A,Official figure ,1000 US$,2799.31,2989.88,2757.62,4504.2,4610.16,5567.39,5093.54,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,105150.17,91060.96,83400.55,82825.21,73114.52,93499.91,104663.96,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1802,Fruit ,A,Official figure ,1000 US$,46097.7,58134.07,52234.99,64143.53,58999.66,71869.55,101425.82,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1773,Nuts ,A,Official figure ,1000 US$,5718.76,5538.68,8401.87,7655.79,8980.69,8404.93,12762.07,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,36685.78,46186.58,47694.2,59313.31,61431.91,70192.89,81771.47,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F2074,Poultry Meat ,A,Official figure ,1000 US$,39969.23,44433.39,44929.31,52225.79,49073.24,43775.55,59367.23,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,3513.02,4156,5610.6,6188.2,6125.35,5025.56,6156.23,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F1734,Vegetables ,A,Official figure ,1000 US$,40027.86,47494.28,54870.01,57996.16,63733.49,96058.2,124471.32,Export Value,5922
+TCL,Crops and livestock products,191,Croatia,F2071,Bovine Meat ,A,Official figure ,1000 US$,69180.6,81469.45,96748.42,112108.62,115215.75,100036.31,139573.39,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1944,Cereals ,A,Official figure ,1000 US$,69362.19,50016.16,66660.17,83985.29,84127.2,82965.64,98166.01,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1887,Dairy Products ,A,Official figure ,1000 US$,174453.64,193013.73,252207.11,270492.93,280960.66,262184.3,318340.49,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1782,Eggs ,A,Official figure ,1000 US$,15732.03,13227.5,15589.73,14989.17,13726.31,16216.36,17338.19,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,220434.71,226590.54,243452.82,278898.21,258229.52,280184.49,336152.62,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1802,Fruit ,A,Official figure ,1000 US$,200148.99,214150.23,232451.28,249538.54,250648.62,250796.23,305319.8,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1773,Nuts ,A,Official figure ,1000 US$,46397.57,40935.72,44168.58,45989.62,53574.24,53238.27,61283.19,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,221033.57,226778.57,274484.27,271224.19,283237.09,261646.67,263584.4,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F2074,Poultry Meat ,A,Official figure ,1000 US$,65667.61,68348.85,63695.29,86486.89,83072.96,62663.97,88086.5,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,27985.33,32799.6,33677.74,40031.56,45144.64,34646.58,43926.8,Import Value,5622
+TCL,Crops and livestock products,191,Croatia,F1734,Vegetables ,A,Official figure ,1000 US$,152313.73,152994.2,161421.14,187593.55,214931.5,213372.98,263177.43,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F2071,Bovine Meat ,A,Official figure ,1000 US$,106.76,86.36,308.71,147.97,316.55,261.12,3065.92,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1944,Cereals ,A,Official figure ,1000 US$,186.94,115.22,225.86,92.76,174.32,143.69,940.03,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1887,Dairy Products ,A,Official figure ,1000 US$,122369.96,151786.79,188138.43,241635.13,253546.93,309525.51,312903.85,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1782,Eggs ,A,Official figure ,1000 US$,42.91,19.37,,,11.26,147.89,205.96,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,7053.88,8252.33,7203.02,11354.61,8757.97,6227.1,5782.24,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1802,Fruit ,A,Official figure ,1000 US$,47510.54,54524.7,60273.71,55627.95,52142.84,43354.8,45410.89,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1773,Nuts ,A,Official figure ,1000 US$,1923.57,3236.79,4096.5,3984.36,3650.23,3695,2673.26,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,1130.9,1196.61,816.08,1023.36,2035.34,2356.78,5764.56,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F2074,Poultry Meat ,A,Official figure ,1000 US$,266.11,232.68,547.31,831.99,327.87,673.65,759.98,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1719,Roots and Tubers ,A,Official figure ,1000 US$,40424.89,52711.84,53866.55,51865.17,53495.63,41878.31,46521.22,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F1734,Vegetables ,A,Official figure ,1000 US$,7152.07,5246.22,5261.27,5621.92,4180.56,2386.4,2486.56,Export Value,5922
+TCL,Crops and livestock products,196,Cyprus,F2071,Bovine Meat ,A,Official figure ,1000 US$,18555.06,23713.94,26673.89,27905.03,24473.16,20295.37,25574.84,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1944,Cereals ,A,Official figure ,1000 US$,109849.87,102106.87,119527.92,125977.78,113984.47,115497.53,179254.35,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1887,Dairy Products ,A,Official figure ,1000 US$,75942.92,75094.61,86728.54,95533.01,91581.02,88346.75,92304.97,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1782,Eggs ,A,Official figure ,1000 US$,3150.18,2747.31,3515.68,4672.22,3741.51,2273.71,2896.69,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,117548.97,115234.59,123504.22,135674.54,131925.22,142168.01,183031.83,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1802,Fruit ,A,Official figure ,1000 US$,58949.8,62902.27,67235.95,76309.7,78965.43,75751.48,85873.15,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1773,Nuts ,A,Official figure ,1000 US$,20707.37,19087.34,20367.65,21548.64,19810.94,20282.15,20941.98,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,20299.1,20977.4,27681.53,31132.04,30180.09,25128.46,29313.11,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F2074,Poultry Meat ,A,Official figure ,1000 US$,38464.74,40480.85,41849.29,46648.87,46048.09,37122.27,47397.14,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1719,Roots and Tubers ,A,Official figure ,1000 US$,15447.02,17253.57,17781.29,19524.54,19654.04,14042.37,19648.87,Import Value,5622
+TCL,Crops and livestock products,196,Cyprus,F1734,Vegetables ,A,Official figure ,1000 US$,33990.33,35496.03,37842.01,44820.99,48075.63,48173.32,56196.43,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F2071,Bovine Meat ,A,Official figure ,1000 US$,49902.7,61292.34,59812.58,72865.05,70369.4,71312.01,73532.36,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1944,Cereals ,A,Official figure ,1000 US$,688565.33,669290.55,680494.06,576160.9,508498.35,699310.29,882359.93,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1887,Dairy Products ,A,Official figure ,1000 US$,721846.71,672251.51,807893.63,869247.07,821986.8,853694.87,968353.92,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1782,Eggs ,A,Official figure ,1000 US$,50399.66,43224.28,50528.3,50291.49,54120.43,56298.44,68049.26,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,503757.33,534145.29,617634.32,728554.39,742522.65,891311.47,1017995.79,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1802,Fruit ,A,Official figure ,1000 US$,223847.11,228948.94,226827.21,229854.37,210533.62,226620.99,235447.54,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1773,Nuts ,A,Official figure ,1000 US$,49556.41,45057.56,44319.42,43024.11,43217.44,56371.33,80230.97,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,168629.66,179676.58,177426.71,161752.63,165669.84,177913.69,172770.79,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F2074,Poultry Meat ,A,Official figure ,1000 US$,111908.7,110776.46,86362.96,88317.91,67980.68,63348.91,80579.29,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,19204.04,22217.5,22278.64,21400,22424.7,20202.85,20881.49,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F1734,Vegetables ,A,Official figure ,1000 US$,152065.81,161120.05,157579.89,163170.52,167116.39,181442.94,222264.26,Export Value,5922
+TCL,Crops and livestock products,203,Czechia,F2071,Bovine Meat ,A,Official figure ,1000 US$,146903.55,174146.36,210471.89,244789.59,238645.43,205266.3,251333.05,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1944,Cereals ,A,Official figure ,1000 US$,147148.24,145247.35,148315.24,177591.44,187563.47,188872.45,208983.84,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1887,Dairy Products ,A,Official figure ,1000 US$,536665.99,542215.32,629365.56,673675.76,657343.29,668778.53,782031.52,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1782,Eggs ,A,Official figure ,1000 US$,67687.32,59802.26,66462.68,64353.97,59984.4,59242.23,73452.66,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,565149.77,521983.34,593567.02,652319.51,654843.02,733911.38,847912.36,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1802,Fruit ,A,Official figure ,1000 US$,738448.48,794053.75,868272.9,926882.8,869715.67,963289.33,1023643.46,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1773,Nuts ,A,Official figure ,1000 US$,141877.07,137110.64,154054.18,146170.44,148756.74,176845.57,205090.54,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,644628.11,667691.99,770638.5,788166.65,846706.24,840772.95,811258.59,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F2074,Poultry Meat ,A,Official figure ,1000 US$,328319.11,306660.42,303408.54,352479.95,307549.89,296079.35,340447.12,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,78753.65,95973.24,95685.39,95345.82,129811.39,104250.41,101580.89,Import Value,5622
+TCL,Crops and livestock products,203,Czechia,F1734,Vegetables ,A,Official figure ,1000 US$,606106.54,635741.52,678397.91,729207.21,735096.83,775788.53,855817.81,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F2071,Bovine Meat ,A,Official figure ,1000 US$,372175.54,381912.23,416892.49,458707.23,398576.67,381762.19,466873.34,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1944,Cereals ,A,Official figure ,1000 US$,483756.15,332540.29,412284.7,312415.48,291937.94,375154.79,422004.19,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1887,Dairy Products ,A,Official figure ,1000 US$,2223185.33,2286568.1,2685511.47,2811987.71,2602682.43,2520879.55,2694899.2,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1782,Eggs ,A,Official figure ,1000 US$,41371.8,36596.66,53631.91,60512.38,54327.33,55233.07,62665.31,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,655349.65,651945.8,702558.38,779714.65,696490.18,735262.05,854189.66,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1802,Fruit ,A,Official figure ,1000 US$,259374.12,267876.32,269964.28,291561.08,273341.35,270500.13,277932.88,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1773,Nuts ,A,Official figure ,1000 US$,27878.97,29994.07,38510.02,33340.87,30840.34,27332.41,30065.93,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,2865149.31,2930797.79,3024116.59,2936948.76,3053638.12,3443543.73,3444236.42,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F2074,Poultry Meat ,A,Official figure ,1000 US$,347204.25,337767.55,373413.14,401496.33,411503.4,386314.1,403105.34,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1719,Roots and Tubers ,A,Official figure ,1000 US$,96518.34,97834.08,98155.2,115990.94,118178.89,107301.12,108853.46,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F1734,Vegetables ,A,Official figure ,1000 US$,147027.63,143471.49,147018.67,161173.27,153903.41,163992.62,165203.25,Export Value,5922
+TCL,Crops and livestock products,208,Denmark,F2071,Bovine Meat ,A,Official figure ,1000 US$,603012.88,573132.59,592806.58,610455.03,541737.22,536132.42,621683.74,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1944,Cereals ,A,Official figure ,1000 US$,206438.49,190889.51,204641.83,315890.84,278112.43,199249.53,189000.45,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1887,Dairy Products ,A,Official figure ,1000 US$,571676.58,550960.06,647182.62,753004.4,746254.25,758674.86,855470.03,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1782,Eggs ,A,Official figure ,1000 US$,59118.66,58378.07,64321.78,80057.55,73749.91,73040,73736.77,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,1484900.82,1266317.99,1328704.91,1464765.54,1348058.64,1427565.1,1632901.86,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1802,Fruit ,A,Official figure ,1000 US$,750789.61,754022.87,798582.94,933013.27,807875.02,868440.1,938743.46,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1773,Nuts ,A,Official figure ,1000 US$,172573.72,142332.02,139251.46,150792.54,163844.22,172609.27,168055.83,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,354828.45,340451.01,360910.57,368152.92,387248.45,399590.81,401845.23,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F2074,Poultry Meat ,A,Official figure ,1000 US$,280177.23,285976.07,309979.3,372361.71,376427.3,358285.83,361117.81,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1719,Roots and Tubers ,A,Official figure ,1000 US$,99517.3,101014.2,103694.73,119819.9,118313.85,110740.63,121110.3,Import Value,5622
+TCL,Crops and livestock products,208,Denmark,F1734,Vegetables ,A,Official figure ,1000 US$,609019.72,603113.15,655796.03,734370.6,726933.3,779041.74,869606.02,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F2071,Bovine Meat ,A,Official figure ,1000 US$,14194.6,13267.72,14492.2,16715.15,14672.14,15985.92,18876.89,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1944,Cereals ,A,Official figure ,1000 US$,153102.44,115788.68,168177.76,120554.91,215995.07,238531.91,200760.54,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1887,Dairy Products ,A,Official figure ,1000 US$,132894.6,143759.6,198178.1,213244.56,217986.71,235777.59,262976.53,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1782,Eggs ,A,Official figure ,1000 US$,4815.54,3579,3065.42,3212.82,1766.93,1077.93,1324.18,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,15746.51,14365.85,12134.18,19380.64,12508.85,24770.9,31025.77,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1802,Fruit ,A,Official figure ,1000 US$,30263.19,35451.03,38677.94,36296.1,41599.05,42247.9,47632.78,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1773,Nuts ,A,Official figure ,1000 US$,1332,916.95,2112.12,3367.29,3046.9,1799.91,1542.52,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,36798.72,34442.04,39908.96,43386.99,55322.36,51460.92,48583.43,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F2074,Poultry Meat ,A,Official figure ,1000 US$,21459.8,23556.95,22622.93,27265.7,29499.22,30027.02,36039.18,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,1838.88,2187.79,2134.32,2934.5,4233.74,3185.32,1879.18,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F1734,Vegetables ,A,Official figure ,1000 US$,12755.62,15491.83,20022.66,21435.54,20786.44,20682.59,21133.47,Export Value,5922
+TCL,Crops and livestock products,233,Estonia,F2071,Bovine Meat ,A,Official figure ,1000 US$,15284.07,19054.85,23702.27,31257,28856.57,26194.65,30846.92,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1944,Cereals ,A,Official figure ,1000 US$,19554.12,15338.79,22857.31,22364.84,21502.12,19880.52,21877.77,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1887,Dairy Products ,A,Official figure ,1000 US$,53804.54,53407.73,71544.73,79208.88,74179.87,81131.81,95057.05,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1782,Eggs ,A,Official figure ,1000 US$,12027.27,12413.65,11419.51,13181.73,14803.46,13477.9,13822.96,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,67503.94,63238.2,66098.32,83062.74,81474.03,96481.86,116019.42,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1802,Fruit ,A,Official figure ,1000 US$,112059.79,126035.65,146884.34,162170.27,146715.17,170061.11,182832.26,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1773,Nuts ,A,Official figure ,1000 US$,23614.61,24390.56,25693.07,28349.92,32576.7,27215.96,27072.26,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,55604.74,58713.76,69493.76,75639.14,80667.33,77888.24,75988.04,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F2074,Poultry Meat ,A,Official figure ,1000 US$,40327.91,46110.18,44403.14,62893.66,56028.5,52080.91,62509.77,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,8208.03,9156.42,11511.61,12942.52,14793.84,12506.2,13990.27,Import Value,5622
+TCL,Crops and livestock products,233,Estonia,F1734,Vegetables ,A,Official figure ,1000 US$,76384.3,85418.12,102655.96,112318.54,113715.42,110522.12,122777.87,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F2071,Bovine Meat ,A,Official figure ,1000 US$,14592.07,18142.93,19389.59,24986.13,38964.97,36817.13,36830.14,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1944,Cereals ,A,Official figure ,1000 US$,163271.52,134341.68,123424.13,94849.95,133054.93,160051.14,116482.83,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1887,Dairy Products ,A,Official figure ,1000 US$,419093.67,383530.7,439609.52,437967.38,455150.45,489241.69,483903.96,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1782,Eggs ,A,Official figure ,1000 US$,16620.32,11546.26,12841.73,16933.01,15790.89,14327.63,19448.78,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,51802.24,53806.79,74582.56,69643.56,98555.06,95653.05,118498.97,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1802,Fruit ,A,Official figure ,1000 US$,45807.48,46529.56,44355.89,39513.4,33700.46,41231.02,47761.44,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1773,Nuts ,A,Official figure ,1000 US$,1777.83,1296.21,970.05,1070.53,927.49,1087.12,1073.9,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,82270.94,79025.78,75481.58,60604.46,90485.06,120786.09,118022,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F2074,Poultry Meat ,A,Official figure ,1000 US$,15252.55,14199.53,13629.58,15823.94,15220.45,13865.6,13400.73,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1719,Roots and Tubers ,A,Official figure ,1000 US$,4968.1,4713.18,5803.65,6013.73,8216.36,4226.93,4437.47,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F1734,Vegetables ,A,Official figure ,1000 US$,8401.05,8361.28,9492.27,13620.8,14039.74,16096.07,21083.4,Export Value,5922
+TCL,Crops and livestock products,246,Finland,F2071,Bovine Meat ,A,Official figure ,1000 US$,88991.84,88750.6,102488.38,120458.9,97951.29,91209.57,99641.79,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1944,Cereals ,A,Official figure ,1000 US$,38553.89,31235.38,41984.71,61310.54,45801.48,40245.19,58476.92,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1887,Dairy Products ,A,Official figure ,1000 US$,394730.13,365953.74,387353.21,406462.41,381152.9,376525.52,384927.53,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1782,Eggs ,A,Official figure ,1000 US$,4196.11,4607.22,3895.66,6730.74,6642.55,9417.64,6926.83,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,363192.18,361418.62,358589.09,381945.28,372455.63,372939.54,424015.53,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1802,Fruit ,A,Official figure ,1000 US$,557969.89,582523.5,600428.43,659818.89,606481.4,657188.16,681224.99,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1773,Nuts ,A,Official figure ,1000 US$,72146.13,71016.84,68179.5,67384.05,68551.06,77274.46,69373.71,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,107411.93,104804.85,110009.98,111631.99,112220.24,97088.55,86387.09,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F2074,Poultry Meat ,A,Official figure ,1000 US$,81515.6,79216.79,83327.82,91659.4,87640.28,77836.99,88683.03,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1719,Roots and Tubers ,A,Official figure ,1000 US$,40715.84,45197.76,49361.09,50277.9,48188.79,47755.45,49152.93,Import Value,5622
+TCL,Crops and livestock products,246,Finland,F1734,Vegetables ,A,Official figure ,1000 US$,361249.19,382208.22,398950.28,432312.78,417413.22,450294.81,472463.61,Import Value,5622
+TCL,Crops and livestock products,250,France,F2071,Bovine Meat ,A,Official figure ,1000 US$,1138400.62,1115944.08,1190025.27,1281935.52,1150918.51,1127290.18,1364430.62,Export Value,5922
+TCL,Crops and livestock products,250,France,F1944,Cereals ,A,Official figure ,1000 US$,7968364.22,6188637.21,5574999.86,7262706.77,7304972.73,7758524.32,8206750.2,Export Value,5922
+TCL,Crops and livestock products,250,France,F1887,Dairy Products ,A,Official figure ,1000 US$,6611060.84,6278337.07,6787654.55,6922496.66,6694925.57,6895845.37,7538876.36,Export Value,5922
+TCL,Crops and livestock products,250,France,F1782,Eggs ,A,Official figure ,1000 US$,248516.25,238389.07,264294.05,272949.53,245940.69,253032.75,282319.46,Export Value,5922
+TCL,Crops and livestock products,250,France,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,3198383.27,2951767.9,3162315.76,3368257.23,3216070.68,3518620.21,4094550.79,Export Value,5922
+TCL,Crops and livestock products,250,France,F1802,Fruit ,A,Official figure ,1000 US$,2396680.04,2356619.81,2483520.07,2428315.77,2184053.69,2280038.08,2399959.46,Export Value,5922
+TCL,Crops and livestock products,250,France,F1773,Nuts ,A,Official figure ,1000 US$,289394.12,296392.91,307930.22,292954,258747.09,250623.19,244787.2,Export Value,5922
+TCL,Crops and livestock products,250,France,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,1062045.43,1129332.97,1203577.6,1166239.37,1374566.75,1461924.55,1424568.22,Export Value,5922
+TCL,Crops and livestock products,250,France,F2074,Poultry Meat ,A,Official figure ,1000 US$,1454954.01,1297878.51,1311742.87,1402449.01,1269204.52,1098729.15,1271893.96,Export Value,5922
+TCL,Crops and livestock products,250,France,F1719,Roots and Tubers ,A,Official figure ,1000 US$,783803.31,942698.83,963214.63,1063891.1,1243479.23,1028179.3,1074229.13,Export Value,5922
+TCL,Crops and livestock products,250,France,F1734,Vegetables ,A,Official figure ,1000 US$,2103947.57,2114181.47,2225629.1,2194400.03,2238780.2,2443147.24,2546624.65,Export Value,5922
+TCL,Crops and livestock products,250,France,F2071,Bovine Meat ,A,Official figure ,1000 US$,1650285.81,1526849.53,1595908.52,1754911.4,1691740.96,1439501.88,1828851.7,Import Value,5622
+TCL,Crops and livestock products,250,France,F1944,Cereals ,A,Official figure ,1000 US$,930016.51,990365.69,1034523.72,964998.93,993376.91,1053756.03,1079307.53,Import Value,5622
+TCL,Crops and livestock products,250,France,F1887,Dairy Products ,A,Official figure ,1000 US$,3255232.77,3235590.75,4135027.45,4463092.74,4136296.26,3972827.82,4606203.44,Import Value,5622
+TCL,Crops and livestock products,250,France,F1782,Eggs ,A,Official figure ,1000 US$,170071.45,148620.84,190542.65,188818.37,172589.96,166996.95,171330.81,Import Value,5622
+TCL,Crops and livestock products,250,France,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,3136249.26,2840150.92,2905412.95,3062056.85,3097781.26,3313369.95,3942505.55,Import Value,5622
+TCL,Crops and livestock products,250,France,F1802,Fruit ,A,Official figure ,1000 US$,5752463.53,6178593.07,6656274.83,7076517.42,6384786.54,6835412.53,7345557.15,Import Value,5622
+TCL,Crops and livestock products,250,France,F1773,Nuts ,A,Official figure ,1000 US$,1242611.57,1195601.76,1262787.22,1275704.47,1216592.65,1320972.74,1316048.19,Import Value,5622
+TCL,Crops and livestock products,250,France,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,1450175.49,1303537.3,1522304.39,1566241.73,1555276.52,1601637.75,1594793.78,Import Value,5622
+TCL,Crops and livestock products,250,France,F2074,Poultry Meat ,A,Official figure ,1000 US$,1356962.2,1419230.57,1522369.59,1736606.87,1639213.03,1553445.44,1894011.27,Import Value,5622
+TCL,Crops and livestock products,250,France,F1719,Roots and Tubers ,A,Official figure ,1000 US$,665929,740634.74,789014.58,811322.25,870063.85,760105.08,824124.42,Import Value,5622
+TCL,Crops and livestock products,250,France,F1734,Vegetables ,A,Official figure ,1000 US$,4271329.37,4580578.69,4947911.21,4991215.65,4922415.51,5149428.07,5397818.22,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F2071,Bovine Meat ,A,Official figure ,1000 US$,1781286.98,1696382.89,1777936.52,1839852.67,1684727.3,1422449.34,1722117.15,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1944,Cereals ,A,Official figure ,1000 US$,3329914.93,2772129.59,2409195.79,1883187.96,1857397.35,2945330.88,3225949.81,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1887,Dairy Products ,A,Official figure ,1000 US$,8348605.65,8003605.46,9582696.17,9624978.79,9576798.78,9861287.85,10869051.84,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1782,Eggs ,A,Official figure ,1000 US$,325343.49,338359.81,363533.12,379768.64,352908.33,324381.51,355928.43,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,4101729.35,4014126.37,4267456.15,4655538.94,4564051,5425507.06,6449012.86,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1802,Fruit ,A,Official figure ,1000 US$,2691689.7,2790035.35,2928389.54,3137090.15,2870597.36,3023214.8,3075067.05,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1773,Nuts ,A,Official figure ,1000 US$,1027297.19,1079354.07,1169666.84,1227131.13,1224654.41,1343239.55,1250859.75,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,5037023.7,5394429.71,5953181.15,5569692.6,6110212.87,6019541.27,5105288.14,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F2074,Poultry Meat ,A,Official figure ,1000 US$,1775607.33,1738411.68,1855156.2,1993535.42,1883002.89,1707806.68,1845222.47,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1719,Roots and Tubers ,A,Official figure ,1000 US$,694632.14,794985.54,874930.23,925511.27,965721.78,906830.47,971710.51,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F1734,Vegetables ,A,Official figure ,1000 US$,1387374.62,1416948.04,1523235.9,1635744.16,1563423.96,1599049.02,1684716.8,Export Value,5922
+TCL,Crops and livestock products,276,Germany,F2071,Bovine Meat ,A,Official figure ,1000 US$,2185958.29,2211887.14,2435775.52,2521952.8,2344731.44,2267441.26,2463152.32,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1944,Cereals ,A,Official figure ,1000 US$,2672812.12,2467029.53,2449166.1,2879415.9,2814031.78,3123485.35,3317109.92,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1887,Dairy Products ,A,Official figure ,1000 US$,6018582.81,6035551.67,7438230.66,7567456.22,7476494.39,7720735.76,8571386.77,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1782,Eggs ,A,Official figure ,1000 US$,740317.43,783763.48,851147.76,949615.16,798040.86,815741.68,792536.59,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,3613664.63,3514912.24,3961805.6,4280937.26,4034944.38,4264332.48,5004965.3,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1802,Fruit ,A,Official figure ,1000 US$,9418755.03,9833310.61,10637496.44,11379889.38,10322373.43,11761589.2,12043376.21,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1773,Nuts ,A,Official figure ,1000 US$,3479805.52,3029634.4,3152941.78,3110371.09,3012825.29,3376599.49,3324225.2,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,2266827.67,2346617.46,2685796.88,2615829.03,2726105.71,2675002.43,2529497.83,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F2074,Poultry Meat ,A,Official figure ,1000 US$,2134553.91,2204313.04,2361498.38,2736131.08,2408269.77,2140362.9,2352471.56,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1719,Roots and Tubers ,A,Official figure ,1000 US$,527576.95,638602.64,673510.02,698910.85,860379.02,746921.24,742988.09,Import Value,5622
+TCL,Crops and livestock products,276,Germany,F1734,Vegetables ,A,Official figure ,1000 US$,7348486.89,7549518.13,8165279.28,8432964.69,8190288.51,9133517.24,9780981.3,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F2071,Bovine Meat ,A,Official figure ,1000 US$,3318.79,4631.75,4827.9,4879.78,5270.35,6553.84,9194.03,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1944,Cereals ,A,Official figure ,1000 US$,122411.68,221848.41,140968.63,156782.1,142285.6,167252.29,290782.45,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1887,Dairy Products ,A,Official figure ,1000 US$,590814.84,615222.09,674169.24,755796.7,748362.23,885956.18,1024572.8,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1782,Eggs ,A,Official figure ,1000 US$,6495.06,4735.74,4183.25,3787.73,5114.57,6687.96,6294.21,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,60254.97,63651.99,69420.3,94625.48,97058.17,135004.04,158308.48,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1802,Fruit ,A,Official figure ,1000 US$,1276794.82,1360457.63,1336332.45,1478171.84,1455164.84,1742605.56,1793904.82,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1773,Nuts ,A,Official figure ,1000 US$,43392.65,40272.85,48516.92,53508.37,64259.31,63540.54,78289.61,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,12671.63,14075.8,16974.34,20349.37,20991.19,22801.12,25956.44,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F2074,Poultry Meat ,A,Official figure ,1000 US$,25707.73,29046.62,37811.67,48242.08,50136.81,49793.43,65491.42,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1719,Roots and Tubers ,A,Official figure ,1000 US$,7587.7,12519.41,16872.01,16168.05,33276.17,26317.25,20861.02,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F1734,Vegetables ,A,Official figure ,1000 US$,749205.75,781821.98,844952.98,931604.35,870874.15,946311.04,1060705.85,Export Value,5922
+TCL,Crops and livestock products,300,Greece,F2071,Bovine Meat ,A,Official figure ,1000 US$,465044.76,480123.59,527543.06,575878.77,539428.16,532379.44,599722.52,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1944,Cereals ,A,Official figure ,1000 US$,363468.55,400947.44,459161,473032.21,449864.22,417787.71,626550.25,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1887,Dairy Products ,A,Official figure ,1000 US$,776143.13,768987.17,895052.04,886212.79,857075.44,839599.81,998746.91,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1782,Eggs ,A,Official figure ,1000 US$,25735.74,23427.76,31598.12,35197.66,34128.18,31406.98,34857.17,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,358677.89,370781.16,375939.71,431880.18,416281.78,484450.48,642211.12,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1802,Fruit ,A,Official figure ,1000 US$,320510.88,337922.46,378607.52,405321.53,379570.9,381824.3,427985.09,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1773,Nuts ,A,Official figure ,1000 US$,161592.24,140874.55,145448.25,146497.23,156938.16,152768.76,174103.06,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,467977.21,494595.64,567845.65,552995.54,593458.41,495851.93,497553.85,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F2074,Poultry Meat ,A,Official figure ,1000 US$,187752.16,188158.03,196471.3,219451.5,212374.49,164515.95,206789.62,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1719,Roots and Tubers ,A,Official figure ,1000 US$,124457.99,136431.51,154354.22,164501.11,202904.4,140022.05,158668.84,Import Value,5622
+TCL,Crops and livestock products,300,Greece,F1734,Vegetables ,A,Official figure ,1000 US$,194494.75,201742.82,226199,249090.21,250323.7,237750.41,281596.65,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F2071,Bovine Meat ,A,Official figure ,1000 US$,39127.75,42813.87,47947.17,56915.02,50603.02,48515.54,57653.03,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1944,Cereals ,A,Official figure ,1000 US$,1475172.78,1236389.79,1656172.62,1276312.88,1398725,1764620.94,1830399.2,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1887,Dairy Products ,A,Official figure ,1000 US$,274934.44,272139.15,354053.05,356102.55,355342.72,364837.74,388041.18,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1782,Eggs ,A,Official figure ,1000 US$,54869.03,44066.89,41988.75,47625.71,49174.59,48192.27,60825.04,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,901149.85,864233.88,940407.87,1027126.67,1009659.05,1053135.88,1314222.77,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1802,Fruit ,A,Official figure ,1000 US$,291370.59,290527.1,368111,323377.12,301915.16,331097.9,353661.24,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1773,Nuts ,A,Official figure ,1000 US$,52249.9,46155.73,49237.54,46201.38,42822.3,50814.21,52769.98,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,430964.66,454913.14,501043.02,437526.22,499512.32,514132.39,532220.83,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F2074,Poultry Meat ,A,Official figure ,1000 US$,659430.47,726572.46,660190.86,808462.86,769523.47,611317.86,858300.35,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1719,Roots and Tubers ,A,Official figure ,1000 US$,1879.78,2345.65,4924.5,3677.28,5098.51,5056.58,5182.3,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F1734,Vegetables ,A,Official figure ,1000 US$,536063.53,551188.2,577076.44,622031.72,580778.69,632693.16,685462.81,Export Value,5922
+TCL,Crops and livestock products,348,Hungary,F2071,Bovine Meat ,A,Official figure ,1000 US$,48840.92,56292.06,67293.35,81045.72,82034.47,73148.56,85339.07,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1944,Cereals ,A,Official figure ,1000 US$,204635.68,163498.85,166505.5,165542.98,201476.65,204803.13,321489.16,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1887,Dairy Products ,A,Official figure ,1000 US$,317041.76,335942.52,405078.77,429970.84,423625.79,429567.56,462579.02,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1782,Eggs ,A,Official figure ,1000 US$,39767.43,29713.85,43098.74,38199.12,39131.44,47016.94,44775.4,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,467674.19,414084.52,451424.13,505922.53,517447.95,517564.5,687087.75,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1802,Fruit ,A,Official figure ,1000 US$,305313.32,323532.86,341014.35,361104.95,393304.42,434094.13,471789.34,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1773,Nuts ,A,Official figure ,1000 US$,60938.15,53588.65,60668.69,63242.42,60755.85,67038.39,71087.74,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,321280.37,385076.12,452973.75,463316.08,512389.44,471424.12,450075.28,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F2074,Poultry Meat ,A,Official figure ,1000 US$,79669.84,80939.08,124374.91,146815.09,158707.29,178140.73,196709.52,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1719,Roots and Tubers ,A,Official figure ,1000 US$,42094.93,52450.64,58209.36,70485.48,81553.9,82256.7,91502.93,Import Value,5622
+TCL,Crops and livestock products,348,Hungary,F1734,Vegetables ,A,Official figure ,1000 US$,213722.8,231563.33,245202.57,286269.55,314175.56,354926.42,394064.79,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F2071,Bovine Meat ,A,Official figure ,1000 US$,2454445.6,2508767.2,2716776.02,2874716.52,2601000.66,2660020.98,2838116.81,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1944,Cereals ,A,Official figure ,1000 US$,40607.36,18099.46,21713.81,22227.16,36413.06,45262.87,64776.6,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1887,Dairy Products ,A,Official figure ,1000 US$,1869819.73,1868909.98,2627361.31,3013796.67,3270670.89,3314142.75,3682531.51,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1782,Eggs ,A,Official figure ,1000 US$,18217.57,13432.16,15352.94,14688.43,17567.7,20615.04,41842.16,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,306170.29,290641.58,339997.34,375131.32,377578.58,416215.44,505232.61,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1802,Fruit ,A,Official figure ,1000 US$,140635.69,139000.14,162457.16,197679.78,177188.85,185810.6,187145.83,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1773,Nuts ,A,Official figure ,1000 US$,5167.82,3309.45,3374.35,5565.96,7189.56,4016.95,5515.13,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,460401.64,525386.96,554096.62,570868.74,596149.33,663247.52,675023.26,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F2074,Poultry Meat ,A,Official figure ,1000 US$,352545.18,280950.03,306654.82,347555.26,307206.23,281376.33,279626.77,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1719,Roots and Tubers ,A,Official figure ,1000 US$,10192.95,11353.96,13015.46,12386.84,16409.33,15561.07,16015.22,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F1734,Vegetables ,A,Official figure ,1000 US$,162329.28,152579.33,158964.06,161140.09,148342.36,165119.21,256253.49,Export Value,5922
+TCL,Crops and livestock products,372,Ireland,F2071,Bovine Meat ,A,Official figure ,1000 US$,136693.63,130257.46,136399.49,158838.44,142760.24,147804.13,183197.96,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1944,Cereals ,A,Official figure ,1000 US$,245560.02,278931.76,343916.66,564805.31,448889.32,445775.25,494379.96,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1887,Dairy Products ,A,Official figure ,1000 US$,704541.49,607430.28,787961.61,888940.14,855888.6,930309.86,802436.92,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1782,Eggs ,A,Official figure ,1000 US$,17407.82,13437.26,14296.84,17262.2,16676.62,18666.75,14909.58,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,859979.03,816069.53,874787.18,1250912.29,990922.38,1095870.34,1267769.9,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1802,Fruit ,A,Official figure ,1000 US$,637439.04,638502.7,682104.05,776636.19,709449.47,772579.26,665941.41,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1773,Nuts ,A,Official figure ,1000 US$,68289.02,65383.16,66239.21,67207.16,65668.06,65556,66014.82,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,242063.43,233013.51,276193.1,278414.72,253152.33,312199.08,302040.09,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F2074,Poultry Meat ,A,Official figure ,1000 US$,501651.89,497016.68,501483.47,560354.98,520650,439461.56,433775.02,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1719,Roots and Tubers ,A,Official figure ,1000 US$,131073.7,157305.21,163378.71,184574.94,185652.58,164038.79,141945.08,Import Value,5622
+TCL,Crops and livestock products,372,Ireland,F1734,Vegetables ,A,Official figure ,1000 US$,465426.66,488626.38,507627.84,553675.55,538307.42,567862.42,570382.89,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F2071,Bovine Meat ,A,Official figure ,1000 US$,728235.07,727526.31,766320.68,797270.8,694788.34,641263.75,852065.01,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1944,Cereals ,A,Official figure ,1000 US$,909236.92,772722.09,850427.39,739049.67,704998.11,817263.82,907308.96,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1887,Dairy Products ,A,Official figure ,1000 US$,2806141.1,2971581.53,3411258.71,3738205.15,3874942.43,3988022.59,4741842.72,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1782,Eggs ,A,Official figure ,1000 US$,72628.55,61941.3,65433.81,84873.1,87671.98,78242.24,86011,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,995847.4,973521.39,1073054.61,1222141.06,1199407.33,1330924.79,1575289.28,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1802,Fruit ,A,Official figure ,1000 US$,4283745.24,4417663.62,4742237.73,4712722.86,4254191.32,4569395.79,4981762.08,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1773,Nuts ,A,Official figure ,1000 US$,623868.58,626033.08,639601.69,651074.75,610490.95,682672.44,794684.61,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,1486570.27,1575124.13,1685848.04,1745046.17,1672452.47,1827913.51,2090059.62,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F2074,Poultry Meat ,A,Official figure ,1000 US$,459292.16,462966.84,450938.81,461176.1,461104.91,441838.76,534893.83,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1719,Roots and Tubers ,A,Official figure ,1000 US$,63015.8,96068.83,80403.75,74043.68,93998.64,74399.85,63886.95,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F1734,Vegetables ,A,Official figure ,1000 US$,3790365.16,3894846.78,4045707.14,4406150.11,4245937.29,4757316.24,5178644.44,Export Value,5922
+TCL,Crops and livestock products,380,Italy,F2071,Bovine Meat ,A,Official figure ,1000 US$,2305142.84,2184877.86,2243722.35,2375632.66,2195806.67,2057027.17,2283027,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1944,Cereals ,A,Official figure ,1000 US$,3150048.53,3028136.12,3194862.39,3368259.53,3406535.25,3578850.13,4068821.67,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1887,Dairy Products ,A,Official figure ,1000 US$,3578202.05,3365902.15,3811488.56,3956237.42,3861902.86,3611100.7,3923322.48,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1782,Eggs ,A,Official figure ,1000 US$,101800.65,71509.79,110863.08,95963.76,93782.76,104334.75,101931.15,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,2279235.78,2026333.5,2119248.17,2305109.68,2113371.94,2146034.05,2583034.27,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1802,Fruit ,A,Official figure ,1000 US$,2660219.29,2582038.9,2835088.28,3009953.03,2844503.17,3029532.54,3231887.51,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1773,Nuts ,A,Official figure ,1000 US$,1405860.08,1357826,1268351.29,1299939.02,1444592.39,1483182.26,1422785.27,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,2200262.82,2145153.01,2372802.84,2299750.09,2466275.75,2262751.43,2235202.08,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F2074,Poultry Meat ,A,Official figure ,1000 US$,269095.91,239647.11,266071.1,281032.61,265325.98,213005.46,262335.63,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1719,Roots and Tubers ,A,Official figure ,1000 US$,471712.05,545128.5,557428.62,582346.89,648585.41,534516.7,588074.15,Import Value,5622
+TCL,Crops and livestock products,380,Italy,F1734,Vegetables ,A,Official figure ,1000 US$,1747370.33,1717722.44,1847676.21,1871434.38,1967139.87,1923295.69,2263025.74,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F2071,Bovine Meat ,A,Official figure ,1000 US$,30625.14,32245.04,37741.35,41665.76,36208.65,38791,52430.3,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1944,Cereals ,A,Official figure ,1000 US$,436999.93,442436.28,461986.67,450929.56,599305.99,745481.48,728795.57,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1887,Dairy Products ,A,Official figure ,1000 US$,182151.75,186496.31,271809.32,268511.27,278944.65,283361.58,335663.18,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1782,Eggs ,A,Official figure ,1000 US$,27688.13,28723.08,37883.14,37084.09,40875.49,42108.75,45549.53,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,82408.91,82929.15,100723.08,106646.16,95339.65,113479.3,130436.46,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1802,Fruit ,A,Official figure ,1000 US$,97095.76,84286.43,92005.47,109355.75,110387.23,127840.73,137650.35,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1773,Nuts ,A,Official figure ,1000 US$,6619.47,5614.3,6241.92,7031.28,6609.5,8128.57,11267.51,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,15715.55,18833.85,19749.04,18452.71,21643.22,26633.38,34563.05,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F2074,Poultry Meat ,A,Official figure ,1000 US$,27489.56,32618.08,43373.73,55630.58,51910.48,44435.97,56101.16,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,2861.43,3627.02,5268.57,5719.06,9081.13,8307.55,10055.99,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F1734,Vegetables ,A,Official figure ,1000 US$,42520.69,54691.11,58952.99,66579.84,68110.38,66956.32,88519.35,Export Value,5922
+TCL,Crops and livestock products,428,Latvia,F2071,Bovine Meat ,A,Official figure ,1000 US$,19781.74,18852.94,21766.15,25510.13,25678.15,27572.02,31852.54,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1944,Cereals ,A,Official figure ,1000 US$,72470.43,125571.34,143921.87,241610.83,159880.45,218449.79,239113.39,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1887,Dairy Products ,A,Official figure ,1000 US$,115920.68,132347,162191.38,172068.1,175441.66,186771.11,219513.14,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1782,Eggs ,A,Official figure ,1000 US$,12322.43,7181.87,11426.93,13712.48,17657.08,16367.23,20867.43,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,147219.03,138960.02,162712.92,181148.26,169720.92,187296.32,228358.12,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1802,Fruit ,A,Official figure ,1000 US$,181765.2,166234.81,195959.94,207869.87,211043.21,228471.62,252280.41,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1773,Nuts ,A,Official figure ,1000 US$,25659.5,21655.45,26282.24,26630.68,24940.89,27535.23,33222.62,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,77871.72,88259.21,103959.22,103770.8,101482.07,103916.7,119349.09,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F2074,Poultry Meat ,A,Official figure ,1000 US$,38507.85,52376.28,61930.22,77289.73,77696.4,81009.77,96168.02,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,8297.12,11311.31,14345.13,15486.08,20776.04,18799.15,25123.84,Import Value,5622
+TCL,Crops and livestock products,428,Latvia,F1734,Vegetables ,A,Official figure ,1000 US$,111655.35,125853.69,143453.46,155164.25,171345.88,182418.51,196889.61,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F2071,Bovine Meat ,A,Official figure ,1000 US$,105337.32,102880.78,108518.22,121062.69,124092.89,123777.43,153708.16,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1944,Cereals ,A,Official figure ,1000 US$,655945.75,653320.39,690419.87,490863.14,818972.87,1101639.57,962579.72,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1887,Dairy Products ,A,Official figure ,1000 US$,418543.44,432539.09,564722.84,559032.23,583772.67,576790.59,686009.25,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1782,Eggs ,A,Official figure ,1000 US$,24855.47,20749.7,18807.19,19231.05,24558.68,23438.75,28538.7,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,237373.65,240906.73,267546,303795.87,289028.33,330887.5,339194.22,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1802,Fruit ,A,Official figure ,1000 US$,407001.79,238936.3,260910.4,231857.62,224553.98,225328.73,201699.88,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1773,Nuts ,A,Official figure ,1000 US$,37642.41,36431.34,35869.43,41182.46,44085.87,52578.53,53854.35,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,47883.15,33139.88,35984.69,37432.97,41052.55,40624.89,44789.2,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F2074,Poultry Meat ,A,Official figure ,1000 US$,118740.26,124222.2,138449.06,153974.5,135200,120056.32,121727.37,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1719,Roots and Tubers ,A,Official figure ,1000 US$,3320.67,5757.95,7852.25,16757.73,9446.23,6671.93,6844.35,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F1734,Vegetables ,A,Official figure ,1000 US$,214273.01,153159.15,157195.73,173493.34,166640.92,165806.86,166866.88,Export Value,5922
+TCL,Crops and livestock products,440,Lithuania,F2071,Bovine Meat ,A,Official figure ,1000 US$,10545.05,13142.39,17588.87,28141.18,27021.46,29154.52,41727.57,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1944,Cereals ,A,Official figure ,1000 US$,52406.12,47575.11,59470.5,93260.97,128460.04,119914.7,98449.12,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1887,Dairy Products ,A,Official figure ,1000 US$,190827.25,188241.22,283247.42,308713.45,314301.26,332933.06,402262.22,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1782,Eggs ,A,Official figure ,1000 US$,18035.68,14334.23,19911.51,21445.03,22737.23,20465.67,21196.69,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,181521.17,179686.86,205607.59,228925.86,235790.46,232689.74,278034.26,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1802,Fruit ,A,Official figure ,1000 US$,615160.25,400377.3,467142.62,440676.77,391894.82,400051.21,413974.25,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1773,Nuts ,A,Official figure ,1000 US$,61145.93,56716.46,59100.22,63387.24,67192.94,74112.77,78630.93,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,145378.12,146931.53,173796.44,178884.21,186965.71,198075.77,209013.11,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F2074,Poultry Meat ,A,Official figure ,1000 US$,55143.68,60321.65,72996.97,84249.22,93446.58,98755.55,116672.27,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1719,Roots and Tubers ,A,Official figure ,1000 US$,8081.47,11800.19,15977.38,23702.05,20385.15,17321.48,21460.36,Import Value,5622
+TCL,Crops and livestock products,440,Lithuania,F1734,Vegetables ,A,Official figure ,1000 US$,326136.61,232089.13,276270.42,271876.3,275343.87,270901.48,280786.37,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F2071,Bovine Meat ,A,Official figure ,1000 US$,17533.15,18189.71,21108.03,24228.6,21992.26,18307.52,21217.1,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1944,Cereals ,A,Official figure ,1000 US$,19239.34,17038.88,13643.4,22673.36,19002.88,19486.54,18789.52,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1887,Dairy Products ,A,Official figure ,1000 US$,522302.58,370269.58,449484.95,485514.03,425774.18,429591.49,523292.77,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1782,Eggs ,A,Official figure ,1000 US$,455.04,393.37,992.98,2951.03,4165.35,5009.34,5767.33,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,17055.7,13926.45,14507.08,36721.24,34914.26,39956.57,39122.3,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1802,Fruit ,A,Official figure ,1000 US$,35976.64,25891.46,18660.92,27525.43,36940.12,26515.74,32279.02,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1773,Nuts ,A,Official figure ,1000 US$,197209.6,185058.38,177430.88,170539.72,159363.22,187532.3,161185.82,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,12801.26,14260.52,13124.67,13422.32,15011.84,14473.48,14869.87,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F2074,Poultry Meat ,A,Official figure ,1000 US$,4047.35,4737.4,5506.2,6028.11,5437.23,8034.2,10020.72,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1719,Roots and Tubers ,A,Official figure ,1000 US$,2695.4,3013.81,4297.21,4784.65,6856.34,5768.24,4460.32,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F1734,Vegetables ,A,Official figure ,1000 US$,10161.14,13008.21,12412.64,18112.58,20420.93,16467.88,18229.7,Export Value,5922
+TCL,Crops and livestock products,442,Luxembourg,F2071,Bovine Meat ,A,Official figure ,1000 US$,66212.91,69164.2,71321.27,82251.2,75250.55,70199.86,82906.55,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1944,Cereals ,A,Official figure ,1000 US$,48129.57,44462.58,43615.59,52360.07,51786.04,58746.36,66220.43,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1887,Dairy Products ,A,Official figure ,1000 US$,405006.46,332038.77,364672.76,392302.48,350391.4,355545.33,423593.39,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1782,Eggs ,A,Official figure ,1000 US$,10432.23,10173.72,11289.42,13896.13,14025.76,15320.99,15464.85,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,75523.61,70037.21,74144.65,91309.58,94770.93,126705.19,131478.59,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1802,Fruit ,A,Official figure ,1000 US$,252782.11,219169.07,204458.63,226469.53,213815.98,241279.11,232504.4,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1773,Nuts ,A,Official figure ,1000 US$,64528.98,78340.76,81069.39,78567.05,74477.54,86610.69,74828.63,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,52840.11,54709.72,54961.13,62640.54,61389.57,69247.08,68538.55,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F2074,Poultry Meat ,A,Official figure ,1000 US$,55056.5,59562.22,62365.06,70254.85,67878.41,71440.5,77567.84,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1719,Roots and Tubers ,A,Official figure ,1000 US$,14669.12,17012.16,16547.05,17906.37,20635.01,17944.36,18030.88,Import Value,5622
+TCL,Crops and livestock products,442,Luxembourg,F1734,Vegetables ,A,Official figure ,1000 US$,109730.22,121848.65,128548.03,144048.69,142957.3,151537.12,161346.5,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F2071,Bovine Meat ,A,Official figure ,1000 US$,77.3,105.97,22.75,52.55,29.83,9.07,40.1,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1944,Cereals ,A,Official figure ,1000 US$,266.19,3915.76,3199.6,1269.75,756.8,3.61,2.22,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1887,Dairy Products ,A,Official figure ,1000 US$,455.06,770.57,3032.87,3188.94,76.93,891.1,1114.41,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1782,Eggs ,,,,,,,,,0.11,,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,889.41,577.16,323.25,348.7,281.37,453.66,525.06,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1802,Fruit ,A,Official figure ,1000 US$,325.91,148.31,62.6,120.46,197.76,136.81,58.19,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1773,Nuts ,,,,,29.38,35.58,16.48,13.15,6.79,21.06,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,0.92,0.31,2.52,133.57,0.71,0.21,0.22,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F2074,Poultry Meat ,A,Official figure ,1000 US$,0.6,0.92,10.06,26.88,3.16,2.3,4.42,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1719,Roots and Tubers ,A,Official figure ,1000 US$,1119.01,752.77,1362.48,1350.75,863.32,647.1,865.78,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F1734,Vegetables ,A,Official figure ,1000 US$,160.54,360.84,8.53,88.06,19.94,144.94,58.89,Export Value,5922
+TCL,Crops and livestock products,470,Malta,F2071,Bovine Meat ,A,Official figure ,1000 US$,33546.79,34915.18,38438.72,42432.78,40609.15,35311.01,40499.57,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1944,Cereals ,A,Official figure ,1000 US$,30293.01,20684,26303.71,23138.61,21302.79,24184.04,28852.5,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1887,Dairy Products ,A,Official figure ,1000 US$,42743.44,42911.3,49091.11,53671.55,50084.5,48923.32,51244.89,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1782,Eggs ,A,Official figure ,1000 US$,1119.08,1142.14,1488.81,2057.7,1650.47,1340.91,1853.41,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,38045.26,34230.79,37281.56,36463.59,35276.4,39563.67,44772.01,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1802,Fruit ,A,Official figure ,1000 US$,33642.84,38179.78,40745.82,40211.46,40910.78,39427.05,49085.63,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1773,Nuts ,A,Official figure ,1000 US$,8141.31,8232.95,8593.34,8176.29,8514.24,7292.03,8599.28,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,18591.86,18170.5,21473.92,21748.23,21775.8,22189.42,23598.25,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F2074,Poultry Meat ,A,Official figure ,1000 US$,27852.69,27659.65,28967.35,31156.01,29976.79,27639.52,30447.17,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1719,Roots and Tubers ,A,Official figure ,1000 US$,10223.74,10532.35,11550.54,10476.26,12467.16,9476.53,9825.28,Import Value,5622
+TCL,Crops and livestock products,470,Malta,F1734,Vegetables ,A,Official figure ,1000 US$,30229.27,30387.01,34955.6,36301.46,37442.26,33159.89,38904.11,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F2071,Bovine Meat ,A,Official figure ,1000 US$,2758178.35,2995163.64,3483132.33,3669747.92,3438177.5,3133791.12,3667453.34,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1944,Cereals ,A,Official figure ,1000 US$,487916.76,455845.33,598581.41,753161.43,738909.11,706178.47,671177.61,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1887,Dairy Products ,A,Official figure ,1000 US$,6379093.68,6690775.81,8790980.37,8779276.74,8406272.74,8343810.45,9162549.39,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1782,Eggs ,A,Official figure ,1000 US$,816905.21,816452,1046736.98,1182796.11,1061098.28,1096381.44,1256001.6,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,4738104.3,4329509.6,5063577.52,5592243.24,5413174.28,5878568.15,6573216.04,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1802,Fruit ,A,Official figure ,1000 US$,6085465.23,6792445.46,8425433.34,9285291,8733293.2,9665739.87,10200588.32,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1773,Nuts ,A,Official figure ,1000 US$,949279.23,1089867.88,1411351.54,1436743.61,1380153.66,1439191.06,1492441.34,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,2237496.53,2320834.71,2684991.04,2695447.56,3249346.63,3530727.73,3604540.8,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F2074,Poultry Meat ,A,Official figure ,1000 US$,2717373.51,2790527.27,3139596.48,3388718.18,3282695.25,3140727.88,3579623.24,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1719,Roots and Tubers ,A,Official figure ,1000 US$,2147413.8,2465160.91,2831364.05,2961572.04,3150004.82,2688034.54,2991400.98,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F1734,Vegetables ,A,Official figure ,1000 US$,6680848.3,7130831.21,8617111.39,9178833.28,9325342.57,9720763.32,10382705.03,Export Value,5922
+TCL,Crops and livestock products,528,Netherlands,F2071,Bovine Meat ,A,Official figure ,1000 US$,1932421.11,1898953.57,2294826.81,2397417.87,2252137.9,2010248.26,2265894.93,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1944,Cereals ,A,Official figure ,1000 US$,2575320.53,2320450.76,2983133.4,3386209.43,3359008.35,3284052.49,4126496.57,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1887,Dairy Products ,A,Official figure ,1000 US$,2777744.3,2844481.97,3995641.97,4347386.96,4096097.1,4039769.41,4628350.07,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1782,Eggs ,A,Official figure ,1000 US$,284493.1,271152.35,407918.19,439769.56,444545.37,460903.96,456521.97,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,3421895.16,3005656.59,3492724.51,3804443.04,3495672.37,3769190.43,4343454.05,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1802,Fruit ,A,Official figure ,1000 US$,6914037.31,7191593.78,8385614.85,9325960.52,8877710.45,9534671.61,10016003.13,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1773,Nuts ,A,Official figure ,1000 US$,1561319.44,1518081.23,1868179.77,1789457.94,1728700.61,1879398.42,1850843.72,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,510765.68,568793,937241.53,838627.49,919975.77,1033019.27,1016153.29,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F2074,Poultry Meat ,A,Official figure ,1000 US$,1307966.17,1276251.35,1608243.96,1700922.97,1607551.67,1538557.41,1860817.69,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1719,Roots and Tubers ,A,Official figure ,1000 US$,551127.09,604668.82,781924.02,879049.41,974180.74,856992.57,920599.32,Import Value,5622
+TCL,Crops and livestock products,528,Netherlands,F1734,Vegetables ,A,Official figure ,1000 US$,2460276.55,2798631.06,3656766.05,3678930.02,4037570.67,4335704.01,4706419.7,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F2071,Bovine Meat ,A,Official figure ,1000 US$,1710562.25,1705521.09,2093826.53,2277490.82,2093100.74,2180745.08,2541203.33,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1944,Cereals ,A,Official figure ,1000 US$,1287301.43,1208566.97,996850.46,960412.85,912004.41,1948537.17,2258293.2,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1887,Dairy Products ,A,Official figure ,1000 US$,1700263.14,1622155.6,2293715.21,2438523.36,2302161.26,2346389.97,2735533.73,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1782,Eggs ,A,Official figure ,1000 US$,319480.2,283685.07,458937.95,365651.02,375791.41,350362.5,329546.5,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,820209.01,830749.24,1197416.47,1498054.22,1610170.24,1996316.5,2451193.57,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1802,Fruit ,A,Official figure ,1000 US$,1761377.06,1893094.66,1998082.74,2153837.56,2019537.62,2118464.08,2620289.15,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1773,Nuts ,A,Official figure ,1000 US$,87344.76,101021.85,112292.31,124238.8,120717.73,124065.11,122322.97,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,885546.65,965000.05,1208657.77,1136574.96,1022899.77,972738.87,892164.76,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F2074,Poultry Meat ,A,Official figure ,1000 US$,1970087.83,2140875.94,2506435.98,3085081.59,3194361.39,3016247.06,3690807.07,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1719,Roots and Tubers ,A,Official figure ,1000 US$,140132.46,157757.93,187990.93,205980.5,215854.58,181983.86,236408.89,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F1734,Vegetables ,A,Official figure ,1000 US$,1366740.78,1417613.93,1546793.21,1751540.5,1764705.28,1783614.5,1976652.6,Export Value,5922
+TCL,Crops and livestock products,616,Poland,F2071,Bovine Meat ,A,Official figure ,1000 US$,114257.88,130459.36,132603.5,139779.97,147820.6,166738.56,185064.18,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1944,Cereals ,A,Official figure ,1000 US$,362466.03,409615.55,473876.8,463433.82,451003.16,556614.11,563000.52,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1887,Dairy Products ,A,Official figure ,1000 US$,776976.76,857078.69,985610.25,1004431.91,1015484.79,1026899.29,1254922.72,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1782,Eggs ,A,Official figure ,1000 US$,52341.7,54073.8,55434.3,60221.58,52597.82,58760.85,87294.08,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,1626845.54,1536383.73,1854848.77,2199672.44,2200257.15,2576873.12,3103709.83,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1802,Fruit ,A,Official figure ,1000 US$,1702208.35,1765140.55,2237642.34,2272509.12,2199278.37,2496555.6,2739932.17,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1773,Nuts ,A,Official figure ,1000 US$,413306.42,316742.69,367618.08,441631.85,399120.34,457134.86,510152.5,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,1387204.36,1417936.32,1703705.12,1702600.55,1656488.79,1574584.71,1512739.03,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F2074,Poultry Meat ,A,Official figure ,1000 US$,92361.78,114305.96,131379.9,183446.84,184859.31,137572.56,199182.71,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1719,Roots and Tubers ,A,Official figure ,1000 US$,85399.35,121493.72,132818.86,155988.69,233428.7,184960.18,204762.89,Import Value,5622
+TCL,Crops and livestock products,616,Poland,F1734,Vegetables ,A,Official figure ,1000 US$,894625.79,934937.06,1097636.78,1186018.19,1323785.19,1431798.37,1626053.06,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F2071,Bovine Meat ,A,Official figure ,1000 US$,34365.43,39598.06,41478.68,63111.22,53826.38,53658.03,76911.81,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1944,Cereals ,A,Official figure ,1000 US$,53074.1,70820.84,81862.7,129573.15,109195.81,97549.25,102935.87,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1887,Dairy Products ,A,Official figure ,1000 US$,305763.12,270196.43,313300.29,315830.81,307470.31,305000.54,385548.36,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1782,Eggs ,A,Official figure ,1000 US$,70165.69,53927.86,63664.46,59899.46,62936.34,59413.11,72502.28,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,93239.54,99698.29,124518.85,178104.86,168511.47,202587.48,252960.06,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1802,Fruit ,A,Official figure ,1000 US$,587574.98,608509.7,759270.85,835591.44,823486.08,930518.65,923215.04,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1773,Nuts ,A,Official figure ,1000 US$,79614.25,85783.08,85854.64,87146.5,104033.52,82753.59,112647.01,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,226547.05,230273.03,170444.63,150183.61,163416.49,191301.77,179538.91,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F2074,Poultry Meat ,A,Official figure ,1000 US$,65722.67,70266.68,82092.33,62890.63,47696.32,44186.64,71142.25,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1719,Roots and Tubers ,A,Official figure ,1000 US$,24022.06,32379.84,32312.55,27373.2,52737.53,45271.55,45664.3,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F1734,Vegetables ,A,Official figure ,1000 US$,603589.44,629442.67,684747.67,728304.61,712668.03,773111.89,858552.8,Export Value,5922
+TCL,Crops and livestock products,620,Portugal,F2071,Bovine Meat ,A,Official figure ,1000 US$,465137.57,490402.28,562917.37,677378.86,652721.2,579393.49,672151.33,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1944,Cereals ,A,Official figure ,1000 US$,807284.54,804694.76,870848.69,1010590.07,883092.78,879788.39,1085692.12,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1887,Dairy Products ,A,Official figure ,1000 US$,530884.81,502378.01,528653.74,593133.8,576890.47,572069.97,641085.45,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1782,Eggs ,A,Official figure ,1000 US$,30256.23,24960.99,36739,40905.78,39690.08,27152.32,34224.87,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,371000.16,402579.41,436754.9,471481.19,458447.03,470941.21,579442.66,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1802,Fruit ,A,Official figure ,1000 US$,704122.81,864433.83,967364.04,1049407.13,966662.28,1088300.25,1132212.43,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1773,Nuts ,A,Official figure ,1000 US$,88505.39,90515.36,108125.34,125229.36,113593.99,121328.62,128842.02,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,382868.68,350951.13,407827.53,421187.69,413026.72,396767.68,432586.06,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F2074,Poultry Meat ,A,Official figure ,1000 US$,212834.81,218718.05,222849.74,253558.74,261735.55,230399.39,250531.39,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1719,Roots and Tubers ,A,Official figure ,1000 US$,140634.27,185540.76,171486.63,196691.84,210427.57,174337.91,185420.93,Import Value,5622
+TCL,Crops and livestock products,620,Portugal,F1734,Vegetables ,A,Official figure ,1000 US$,339380.12,372284.83,412067.91,459516.32,478320.63,503607.92,550098.79,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F2071,Bovine Meat ,A,Official figure ,1000 US$,26717.38,33203.2,50491.57,41942.18,30275.68,23704.52,29901.78,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1944,Cereals ,A,Official figure ,1000 US$,2183794.16,2275888.54,2212142.27,2569701.59,2866859.63,2470236.7,4236546.74,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1887,Dairy Products ,A,Official figure ,1000 US$,101814.27,103301.7,128995.53,157386.83,156690.69,153761.42,177764.42,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1782,Eggs ,A,Official figure ,1000 US$,22475.2,12286.36,17972.62,25797.38,22907.28,19107.03,21954.35,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,260330.49,211346.09,212819.09,289508.18,293609.36,313703.83,383896.75,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1802,Fruit ,A,Official figure ,1000 US$,47814.45,43194.92,57350.99,72370.97,66893.84,80386.44,104124.07,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1773,Nuts ,A,Official figure ,1000 US$,58877.59,31576.35,40854.64,40234.04,34084,42594.79,51779.78,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,78774.93,102368.11,117939.06,101346.33,81797.37,94566.62,92648.5,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F2074,Poultry Meat ,A,Official figure ,1000 US$,193221.91,173403.64,179079.2,231728.43,221647.66,198961.85,251721.38,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1719,Roots and Tubers ,A,Official figure ,1000 US$,1252.21,930.11,3012.47,2737.21,2271.64,4546.85,5036.42,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F1734,Vegetables ,A,Official figure ,1000 US$,112777.15,95393.01,120014.56,140536.24,127209.86,151671.17,187112.86,Export Value,5922
+TCL,Crops and livestock products,642,Romania,F2071,Bovine Meat ,A,Official figure ,1000 US$,83303.37,87468.17,66726.65,84104.57,87901.43,91615.67,116412.47,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1944,Cereals ,A,Official figure ,1000 US$,585008.84,637648.83,513666.27,383603.33,440329.97,801688.89,748777.58,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1887,Dairy Products ,A,Official figure ,1000 US$,305961.69,388525.03,497021.37,543755.01,588897.96,668097.39,812292.94,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1782,Eggs ,A,Official figure ,1000 US$,33915.09,31904.99,36976.79,35134.78,37732.9,41722.7,50061.85,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,458902.41,424787.79,496076.38,607156.01,598104.02,657539.46,807368,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1802,Fruit ,A,Official figure ,1000 US$,542604.27,648373.46,739372.86,797831.11,764856.86,846181.4,932837.37,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1773,Nuts ,A,Official figure ,1000 US$,79244.75,75297.09,88686.2,103491.92,107914.57,110001.8,143329.43,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,375565.36,433374.23,598662.51,686901.67,777245.2,774798.77,830029.04,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F2074,Poultry Meat ,A,Official figure ,1000 US$,183432.12,203361.83,222947.94,252362.42,240777.36,245913.46,299663.08,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1719,Roots and Tubers ,A,Official figure ,1000 US$,47796.63,81543.61,83212.91,95570.92,151083.06,123214.06,148710.55,Import Value,5622
+TCL,Crops and livestock products,642,Romania,F1734,Vegetables ,A,Official figure ,1000 US$,380009.91,472160.77,532213.29,634345.25,670545.7,692544.86,768704.09,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F2071,Bovine Meat ,A,Official figure ,1000 US$,13108.59,14536.97,9467.15,13267.12,10443.53,6536.54,11734.87,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1944,Cereals ,A,Official figure ,1000 US$,386412.95,397396.82,385004.12,329980.29,320113.35,464948.42,558427.43,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1887,Dairy Products ,A,Official figure ,1000 US$,281990.09,273706.07,304184.39,311915.32,287848.92,275261.1,302599.98,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1782,Eggs ,A,Official figure ,1000 US$,33857.74,24783.42,24094.42,28558.66,27821.94,25263.46,39548.48,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,109176.99,111172.13,102898.42,126643.59,119750.26,123273.51,133513.97,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1802,Fruit ,A,Official figure ,1000 US$,86001.85,90557.87,109999.14,122168.06,114236.64,103713.77,107738.98,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1773,Nuts ,A,Official figure ,1000 US$,40617.78,43166.7,42715.04,39565.29,33746.84,38494.1,45831.75,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,76722.38,85956.74,99116.33,116662.02,136086.48,133761.6,128781.48,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F2074,Poultry Meat ,A,Official figure ,1000 US$,112348.48,97187.17,64679.33,105322.03,96950.19,61844.61,70908.41,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,4996.84,5679.93,6366.76,7415.14,9500.38,8314.64,8205.88,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F1734,Vegetables ,A,Official figure ,1000 US$,48693.43,48296.12,47118.57,54227.94,68089.62,63355.32,63424.49,Export Value,5922
+TCL,Crops and livestock products,703,Slovakia,F2071,Bovine Meat ,A,Official figure ,1000 US$,63593.66,67659.99,78420.8,91924.26,79331.66,74281.14,99042.73,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1944,Cereals ,A,Official figure ,1000 US$,101927.19,84008.26,96957.92,115324.77,119561.08,106725.24,120739.1,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1887,Dairy Products ,A,Official figure ,1000 US$,327350.42,356959.86,422744.56,429330.14,428545.48,449553.06,519364.56,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1782,Eggs ,A,Official figure ,1000 US$,11518.03,10092.84,15164.29,15308.76,15227.57,22309.87,23495.68,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,202806.95,201531.29,212648.37,230071.55,238174.83,251912.77,320310.25,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1802,Fruit ,A,Official figure ,1000 US$,337557.08,378688.06,388618.63,425980.58,421457.45,455108.15,500980.71,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1773,Nuts ,A,Official figure ,1000 US$,73724.56,76676.22,75535.3,72488.95,67689.05,77077.72,84101.04,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,300045.88,386513.84,445787.16,457524.34,473666.98,508125.12,505235.11,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F2074,Poultry Meat ,A,Official figure ,1000 US$,126380.99,124030.9,133052.75,205712.41,215532.67,204546.34,187390.17,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,41209.09,51916.55,48039.82,51750.47,66281.67,66999.84,59101.3,Import Value,5622
+TCL,Crops and livestock products,703,Slovakia,F1734,Vegetables ,A,Official figure ,1000 US$,264459.15,279544.99,285720.29,325175.07,357281.17,363443.56,390600.25,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F2071,Bovine Meat ,A,Official figure ,1000 US$,25253.27,28868.89,41083.31,67125.26,65832.38,56685.96,98216.81,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1944,Cereals ,A,Official figure ,1000 US$,59884.65,79363.24,112004.38,150217.41,179871.43,193477.81,311077.71,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1887,Dairy Products ,A,Official figure ,1000 US$,146416.99,150670.83,192765.16,205433.24,191047.74,201981.35,224701.33,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1782,Eggs ,A,Official figure ,1000 US$,4526.38,5323.45,5215.92,5437.47,5370.35,5157.01,7325.07,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,402591.42,363296.57,289896.88,399824.64,319180.6,333837.42,427356.98,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1802,Fruit ,A,Official figure ,1000 US$,158548.42,157194.03,204598.93,219076.25,223804.06,266633.64,283031.31,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1773,Nuts ,A,Official figure ,1000 US$,9358.62,7923.62,7172.41,8382.95,9107.32,12259.58,13648.7,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,60057.27,55956.08,60587.55,73110.87,74914.25,83669.67,108988.55,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F2074,Poultry Meat ,A,Official figure ,1000 US$,79365.48,85721.56,95399.94,110840.62,117027.94,118133.13,135079.54,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,5558.58,10052.14,10097.53,12650.88,33521.89,17995.47,17518.85,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F1734,Vegetables ,A,Official figure ,1000 US$,95154.73,117348.09,117902.95,111635.86,101010.66,88775.89,100145.28,Export Value,5922
+TCL,Crops and livestock products,705,Slovenia,F2071,Bovine Meat ,A,Official figure ,1000 US$,45001.47,49284.44,53557.15,66477.4,61290.95,52798.68,66281.22,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1944,Cereals ,A,Official figure ,1000 US$,98208.3,114239.77,145664.79,188424.43,202877.56,201949.14,310638.7,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1887,Dairy Products ,A,Official figure ,1000 US$,155821.75,155490.34,184995.83,204941.11,189749.23,197896.52,218488.71,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1782,Eggs ,A,Official figure ,1000 US$,5095.48,4882.58,6714.82,4932.85,4436.51,4616.08,4806.59,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,486490.4,437548.36,413168.56,505482.45,417116.62,426694.74,537844.31,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1802,Fruit ,A,Official figure ,1000 US$,263006.46,287851.14,349926.28,368441.53,350531.97,403031.79,434491.68,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1773,Nuts ,A,Official figure ,1000 US$,37360.65,34675.91,40272.17,44586.09,41244.08,42866.43,43720.37,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,146559.71,158803.2,157589.25,164399.12,167382.65,153541.28,150673.41,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F2074,Poultry Meat ,A,Official figure ,1000 US$,60659.07,59711.98,62635.39,71527.13,65503.97,58844.9,71344.63,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1719,Roots and Tubers ,A,Official figure ,1000 US$,20034.76,28591.63,32251.29,37564.36,57222.23,42766.74,36636.97,Import Value,5622
+TCL,Crops and livestock products,705,Slovenia,F1734,Vegetables ,A,Official figure ,1000 US$,207190.15,232706.04,246949.85,239101.21,244059.81,228587.33,245118.73,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F2071,Bovine Meat ,A,Official figure ,1000 US$,687071.38,730192.07,795828.78,859596.61,916839.6,945392.08,1146408.91,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1944,Cereals ,A,Official figure ,1000 US$,461005.12,402600.6,412803.84,479427.48,502123.72,559784.09,528489.01,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1887,Dairy Products ,A,Official figure ,1000 US$,1059182.97,1103573.96,1304071.56,1328346.88,1332072.06,1362070.44,1554203.56,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1782,Eggs ,A,Official figure ,1000 US$,249130.99,195210.62,212706.17,232274.24,233778.27,269237.5,288819.39,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,1290836.87,1283922.12,1342160.05,1517557.72,1425213.89,1670736.15,2170120.46,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1802,Fruit ,A,Official figure ,1000 US$,9072403.5,9380597.62,9935357.91,10510719.16,10192019.86,11299226.39,12011843.18,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1773,Nuts ,A,Official figure ,1000 US$,1155122.09,936171.67,884493.06,1010998.47,1131602.41,1065660.35,1127281.31,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,3835672.73,4418405.5,4984034.32,5130483.29,6141952.55,7593375.1,7761648.2,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F2074,Poultry Meat ,A,Official figure ,1000 US$,407839.2,396155.04,418165.03,497121.8,519849.61,480531.36,615965.01,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1719,Roots and Tubers ,A,Official figure ,1000 US$,153103.98,191747.95,178535.66,235449.04,272204.16,218764.66,232115.87,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F1734,Vegetables ,A,Official figure ,1000 US$,7759967.79,8323267.84,8785108.67,9172303.42,9359415.28,10048243.6,11024034.24,Export Value,5922
+TCL,Crops and livestock products,724,Spain,F2071,Bovine Meat ,A,Official figure ,1000 US$,690342.43,755277.17,831600.28,873785.14,823993.06,635488.64,791635.4,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1944,Cereals ,A,Official figure ,1000 US$,2905947.96,2901694.98,3127614.05,3718567.02,3545997.58,3034406.09,3912277.52,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1887,Dairy Products ,A,Official figure ,1000 US$,1674507.74,1588805.57,1878753.09,1980872.42,1962532.16,1910949.86,2096040.54,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1782,Eggs ,A,Official figure ,1000 US$,79318.31,92983.02,100498.19,114129.12,99251.85,88866.99,116393.28,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,1864396.73,1881261.48,1953765.68,2059544.11,2191222.81,2318363.58,2833127.72,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1802,Fruit ,A,Official figure ,1000 US$,2038323.08,2323962.81,2568994.2,2922840.79,2685643.71,3015542.6,3210421.99,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1773,Nuts ,A,Official figure ,1000 US$,1194189.72,1087684.56,1022498.27,1066129.33,1089848.43,1119379.23,1092001.64,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,378507.25,352890.08,398393.16,353857.35,348572.42,342976.63,381482.94,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F2074,Poultry Meat ,A,Official figure ,1000 US$,458170.22,481803.96,525458.73,533890.21,529155.91,462350.87,516890.01,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1719,Roots and Tubers ,A,Official figure ,1000 US$,364925.47,498719.3,514817.46,543185.59,635957.1,568130.31,570562.14,Import Value,5622
+TCL,Crops and livestock products,724,Spain,F1734,Vegetables ,A,Official figure ,1000 US$,1352465.62,1510703.33,1652331.75,1856166.41,1826831.69,1931125.3,2166845.54,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F2071,Bovine Meat ,A,Official figure ,1000 US$,46650.93,42087.14,49150.27,47675.58,43655.7,42562.53,56419.06,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1944,Cereals ,A,Official figure ,1000 US$,408679.63,344024.39,298256.09,210779.13,223894.17,397328.12,334627.31,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1887,Dairy Products ,A,Official figure ,1000 US$,349906.65,296895.04,345369.28,314260.44,309484.89,353371.91,439481.8,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1782,Eggs ,A,Official figure ,1000 US$,19467.46,24320.95,24867.75,30003.92,33762.4,32962.54,24337.73,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,182066.09,173633.29,199214.34,199964.62,209358.56,248786,321396.27,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1802,Fruit ,A,Official figure ,1000 US$,174686.49,175154.12,186449.92,167001.14,165102.15,165801.87,181120.38,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1773,Nuts ,A,Official figure ,1000 US$,25291.43,30113.92,33313.84,36711.43,38357.8,41773.44,35977.99,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,74127.63,72550.98,81449.88,91166.35,84450.13,75328.25,88714.03,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F2074,Poultry Meat ,A,Official figure ,1000 US$,53895.77,55425.04,58995.53,64913.39,61032.59,69669.78,71316.38,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1719,Roots and Tubers ,A,Official figure ,1000 US$,9891.25,9494.33,9306.19,8314.12,11732.95,10310.39,12857.38,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F1734,Vegetables ,A,Official figure ,1000 US$,132541.16,144221.47,139493.7,149031.16,156710.63,169615.54,189563.4,Export Value,5922
+TCL,Crops and livestock products,752,Sweden,F2071,Bovine Meat ,A,Official figure ,1000 US$,507496.88,491312.55,504199.5,499655.43,435435.43,392220.47,468360.49,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1944,Cereals ,A,Official figure ,1000 US$,153103.71,139628.28,148502.25,221663.44,243098.59,145650.95,136606.7,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1887,Dairy Products ,A,Official figure ,1000 US$,910964.58,915058.07,1052763.09,1088839.14,1036688.09,1020152.24,1069247.92,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1782,Eggs ,A,Official figure ,1000 US$,29843.55,29326.26,32672.77,42123.36,32381.96,28228.24,43298.66,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1892,Fodder and Feeding Stuff ,A,Official figure ,1000 US$,432274.63,426303.81,445410.17,504492.8,480983.82,517015.8,578155.58,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1802,Fruit ,A,Official figure ,1000 US$,1216850.69,1238595.04,1252627.88,1287110.34,1123472.28,1237750.89,1276401.61,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1773,Nuts ,A,Official figure ,1000 US$,251063.81,225130.63,220816.01,227193.19,209162.45,224364.57,207191.2,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F2073,Pigmeat (meat equivalent) ,A,Official figure ,1000 US$,424883.07,427979.44,440407.52,422689.69,382819.55,343641.8,343867.54,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F2074,Poultry Meat ,A,Official figure ,1000 US$,307418.85,316147.55,312791.25,314796,297301.27,276413.82,323630.54,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1719,Roots and Tubers ,A,Official figure ,1000 US$,100054.45,105071.86,107971.08,120492.54,125109.9,112131.92,126831.09,Import Value,5622
+TCL,Crops and livestock products,752,Sweden,F1734,Vegetables ,A,Official figure ,1000 US$,990683.82,1039542.46,1082611.22,1109479.71,1065114.74,1097804.98,1154693.85,Import Value,5622
